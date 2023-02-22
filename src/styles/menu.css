@@ -1,0 +1,19 @@
+.menu {
+    font-size: 1.2em;
+}
+
+.menu-item{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.linkActif{
+    color: blue;
+    text-decoration: underline;
+}

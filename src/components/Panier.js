@@ -1,6 +1,5 @@
 export default function Panier(props) {
-  const { panier } = props;
-  const { handleAddPanier, handleRemovePanier } = props;
+  const { panier, handleAddPanier, handleRemovePanier } = props;
 
   return (
     <div>
